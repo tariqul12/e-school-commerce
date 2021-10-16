@@ -1,0 +1,46 @@
+.container{
+    margin-bottom: 30px;
+}
+.logo{
+    width: 200px;
+}
+.col-md-6 img{
+    width: 400px;
+}
+.orange-bg{
+    background-color: #F0FFF0;
+}
+.orange-bg h6{
+    color: red;
+}
+.orange-bg span{
+    color: #21B573;
+}
+.orange-bg p{
+    color: gray;
+}
+.button{
+    background-color: #21B573;
+    border: none;
+    padding: 12px 36px;
+    border-radius: 33px;
+    color: #fff;
+    font-weight: 500;
+}
+.col-md-3 img{
+    width: 100px;
+}
+.cat1,.cat2,.cat3,.cat4{
+    background-color: #F0FFF0;
+    text-align: center;
+    height: 230px;
+    padding: 30px;
+}
+.cat2 {
+    box-shadow: 10px 10px 10px lightgray;
+
+}
+.col-md-3 h6{
+    color: lightslategray;
+    font-size: 12px;
+}
