@@ -50,6 +50,23 @@
 #cources h1{
     text-align: center;
 }
+.card{
+    box-shadow: 10px 10px 10px;
+    border: none;
+}
+
+#footer-bg{
+    border-top: none;
+    background-color: #fff;
+}
+#footer-bg2{
+    border-top: none;
+    background-color: #fff;
+}
+#footer-bg3{
+    border-top: none;
+    background-color: #fff;
+}
 #other{
     text-align: center;
 }
