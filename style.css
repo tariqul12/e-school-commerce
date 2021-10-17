@@ -44,3 +44,37 @@
     color: lightslategray;
     font-size: 12px;
 }
+.card-footer img{
+    width: 30px;
+}
+#cources h1{
+    text-align: center;
+}
+#other{
+    text-align: center;
+}
+#other img{
+    width: 100px;
+}
+#other{
+    height: 400px;
+    position: relative;
+}
+.child{
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+#footer{
+    background-color: rgb(27, 20, 20);
+    color: #fff;
+    padding: 30px;
+}
+#footer h2{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+}
+
